@@ -7,7 +7,7 @@ The [Twoaie: Network Rack](https://github.com/baarool/twoaie) is the primary net
 - [Aerag: Antenna Array](https://github.com/baarool/twoaie/blob/main/aerag.md)
 - [Grinney: Gateway Cluster](https://github.com/baarool/twoaie/blob/main/grinney.md)
 - [Fendeil: Appliance Cluster](https://github.com/baarool/twoaie/blob/main/fendeil.md)
-- [Cree: Core Router](cree.md)
+- [Cree: Core Router](https://github.com/baarool/twoaie/blob/main/cree.md)
 - [Slock: Core Switch](https://github.com/baarool/twoaie/blob/main/slock.md)
 - [Cohummid: Aggregation Switch](https://github.com/baarool/twoaie/blob/main/cohummid.md)
 - [Scain: Access Switch](https://github.com/baarool/twoaie/blob/main/scain.md)
