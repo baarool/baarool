@@ -1,5 +1,9 @@
 # Baarool Lab
 
+My name is Paayl. I'm on a journey to enhance my skills and knowledge across IT. To achieve this goal I am building, managing, and securing my own IT Infrastructure to  gain hands-on experience of managing IT systems without impacting real production systems, from the comfort of my own home.
+
+I document this journey into the world of IT, that broadly encompasses disciplines such as IT Operations, Development, DevOps, Cybersecurity, and related fields, on my blog: [Baarool Lab](https://baarool.org).
+
 ## Twoaie: Network Rack
 
 The [Twoaie: Network Rack](https://github.com/baarool/twoaie) is the primary network rack in the NOC (Network Operations Centre) at Baarool Lab.
