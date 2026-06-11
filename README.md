@@ -4,6 +4,8 @@ My name is Paayl. I'm on a journey to enhance my skills and knowledge across IT.
 
 I document this journey into the world of IT, that broadly encompasses disciplines such as IT Operations, Development, DevOps, Cybersecurity, and related fields, on my blog: [Baarool Lab](https://baarool.org).
 
+Below are links to repositories and configuration files of the IT Infrastructure at Baarool Lab:
+
 ## Twoaie: Network Rack
 
 The [Twoaie: Network Rack](https://github.com/baarool/twoaie) is the primary network rack in the NOC (Network Operations Centre) at Baarool Lab.
