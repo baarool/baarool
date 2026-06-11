@@ -2,7 +2,7 @@
 
 ## Twoaie: Network Rack
 
-The [Twoaie: Network Rack](twoaie) is the primary network rack in the NOC (Network Operations Centre) at Baarool Lab.
+The [Twoaie: Network Rack](https://github.com/baarool/twoaie) is the primary network rack in the NOC (Network Operations Centre) at Baarool Lab.
 
 - [Aerag: Antenna Array](aerag.md)
 - [Grinney: Gateway Cluster](grinney)
@@ -18,7 +18,7 @@ The [Twoaie: Network Rack](twoaie) is the primary network rack in the NOC (Netwo
 
 ## Jiass: Network Rack
 
-The [Jiass: Network Rack](jiass) is the secondary network rack in the Computer Lab at Baarool Lab.
+The [Jiass: Network Rack](https://github.com/baarool/jiass) is the secondary network rack in the Computer Lab at Baarool Lab.
 
 - [Enneyder: Antenna Stand](enneyder.md)
 - [Dorrys: Gateway Node](dorrys.md)
@@ -29,4 +29,4 @@ The [Jiass: Network Rack](jiass) is the secondary network rack in the Computer L
 
 ## Lhean: Server Rack
 
-The [Lhean: Server Rack is core server rack in the Computer Lab at Baarool Lab.
+The [Lhean: Server Rack](https://github.com/baarool/lhean) is core server rack in the Computer Lab at Baarool Lab.
