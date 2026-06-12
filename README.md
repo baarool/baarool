@@ -29,6 +29,7 @@ The [Jiass: Network Rack](https://github.com/baarool/jiass) is the secondary net
 - [Enneyder: Antenna Stand](https://github.com/baarool/jiass/blob/main/enneyder.md)
 - [Dorrys: Gateway Node](https://github.com/baarool/jiass/blob/main/dorrys.md)
 - [Creeagh: Edge Router](https://github.com/baarool/jiass/blob/main/creeagh.md)
+- [Shickraghan: Access Switch](https://github.com/baarool/jiass/blob/main/shickraghan.md)
 - [Soylagh: Virtualisation Cluster](https://github.com/baarool/jiass/blob/main/soylagh.md)
 - [Entreilys: Access Switch](https://github.com/baarool/jiass/blob/main/entreilys.md)
 - [Fosley-Raad: Access Switch](https://github.com/baarool/jiass/blob/main/fosley-raad.md)
