@@ -34,6 +34,6 @@ The [Jiass: Network Rack](https://github.com/baarool/jiass) is the secondary net
 - [Entreilys: Access Switch](https://github.com/baarool/jiass/blob/main/entreilys.md)
 - [Fosley-Raad: Access Switch](https://github.com/baarool/jiass/blob/main/fosley-raad.md)
 
-## Lhean: Server Rack
+## Meayll: Server Rack
 
-The [Lhean: Server Rack](https://github.com/baarool/lhean) is core server rack in the Computer Lab at Baarool Lab.
+The [Meayll: Server Rack](https://github.com/baarool/meayll) is core server rack in the Computer Lab at Baarool Lab.
