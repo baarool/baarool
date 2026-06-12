@@ -36,4 +36,4 @@ The [Jiass: Network Rack](https://github.com/baarool/jiass) is the secondary net
 
 ## Meayll: Server Rack
 
-The [Meayll: Server Rack](https://github.com/baarool/meayll) is core server rack in the Computer Lab at Baarool Lab.
+The [Meayll: Server Rack](https://github.com/baarool/meayll) is the core server rack in the Computer Lab at Baarool Lab.
